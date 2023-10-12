@@ -1,5 +1,14 @@
-[
-  {
-  "message": "hello"
-  }
-]
+{
+  "tasks": [
+    {
+      "id": 1,
+      "content": "touch grass",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "idk",
+      "done": false
+    }
+  ]
+}
